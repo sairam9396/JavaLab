@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+D:\GitP\myrepo\lisa-repo\.metadata\.plugins\org.eclipse.jdt.core
+1007340512.index
+1014643637.index
+1197439318.index
